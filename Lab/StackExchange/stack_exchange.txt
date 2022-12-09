@@ -1,0 +1,31 @@
+"Question title      " | "Tags                " | "Owner               " | "Host                "
+"Why do American universities cost so much?" | "[""united-states"", ""undergraduate"", ""tuition""]" | "Iam Cleaver" | academia
+"CGAC2022 Day 8: Fen The Wicked, Part 2" | "[""code-golf"", ""array"", ""data-structures""]" | Bubbler | codegolf
+"PSE Advent Calendar 2022 (Day 8): Dash away! Dash away! Dash away all!" | "[""enigmatic-puzzle"", ""wordplay"", ""story"", ""seasonal""]" | Stiv | puzzling
+"Why do American universities have so many gen-eds?" | "[""united-states"", ""application"", ""undergraduate"", ""major""]" | "Iam Cleaver" | academia
+"How do I tell if this single climbing rope still safe for use?" | "[""safety"", ""climbing"", ""gear-care"", ""rope-climbing""]" | "Andreas Schwab" | outdoors
+"Would ATV Cavalry be as effective as horse cavalry?" | "[""technology"", ""warfare"", ""alternate-history"", ""vehicles"", ""cavalry""]" | Rhymehouse | worldbuilding
+"Did they forget to add the physical layout to the USB keyboard standard?" | "[""history"", ""keyboards"", ""design-choices"", ""usb""]" | zomega | retrocomputing
+"Addams family: any indication that Gomez, his wife and kids are supernatural?" | "[""addams-family""]" | releseabe | scifi
+"How can two tied candidates in a New Hampshire House race ""share the seat""?" | "[""united-states"", ""election"", ""state-legislatures""]" | Panda | politics
+"Cat clone in C++" | "[""c++""]" | "Abhilekh Gautam" | codereview
+"Is NYC taxi cab number 86Z5 reserved for filming?" | "[""production"", ""realism"", ""new-york""]" | miken32 | movies
+"What do students mean by ""makes the course harder than it needs to be""?" | "[""teaching""]" | xyz | academia
+"A small bolt/nut came off my mtn bike while washing it, can someone help me identify it?" | "[""mountain-bike"", ""diy"", ""bolt""]" | user67792 | bicycles
+"Terminal, won't execute any command, instead whatever I type just repeats" | "[""cat""]" | kakashi7593 | unix
+"Do player choices use the stack?" | "[""magic-the-gathering"", ""mtg-stack""]" | "James Jackson" | boardgames
+"Finding Vrms over time" | "[""rms"", ""calculus""]" | user97662 | electronics
+"How to negotiate a raise, if they want me to get an offer letter?" | "[""salary""]" | "Display name" | workplace
+"Allow non-GPL plugins in a GPL main program" | "[""licensing"", ""gpl"", ""gpl-3""]" | Dan | opensource
+"Why can I send 127.0.0.1 to 127.0.0.0 on my network?" | "[""ethernet"", ""ip-address"", ""loopback""]" | "David Anderson" | networkengineering
+"CGAC2022 Day 7: Fen The Wicked" | "[""code-golf"", ""array"", ""data-structures""]" | Bubbler | codegolf
+"Does an Antimagic Field suppress the ability score increases granted by the Manual or Tome magic items?" | "[""dnd-5e"", ""magic-items"", ""ability-scores"", ""antimagic-field""]" | Xofh | rpg
+"Does any country consider housing and food a right?" | "[""human-rights"", ""civil-rights"", ""social-welfare""]" | peters | politics
+"What are these row of bumps along my drywall near the ceiling?" | "[""drywall"", ""walls""]" | mrQWERTY | diy
+"Why is integer factoring hard while determining whether an integer is prime easy?" | "[""nt.number-theory"", ""prime-numbers"", ""computational-number-theory"", ""mathematical-philosophy""]" | "Craig Feinstein" | mathoverflow
+"Using a recipe in a YouTube" | "[""copyright"", ""intellectual-property"", ""youtube""]" | Manny | law
+"Is it viable to have a school for warriors or assassins that pits students against each other in lethal combat?" | "[""internal-consistency"", ""assassination"", ""training""]" | gaazkam | worldbuilding
+"When booking a flight when the clock is set back by one hour due to the daylight saving time, how can I know when the plane is scheduled to depart?" | "[""usa"", ""air-travel"", ""tickets"", ""timezones""]" | "Franck Dernoncourt" | travel
+"Why did the Council of Elrond debate hiding or sending the Ring away, if Sauron wins eventually in that scenario?" | "[""tolkiens-legendarium""]" | Allure | scifi
+"What was the last x86 processor that didn't have a microcode layer?" | "[""cpu"", ""x86"", ""microcode""]" | bjb | retrocomputing
+"How to label jars so the label comes off easily?" | "[""food-preservation""]" | user149408 | cooking
